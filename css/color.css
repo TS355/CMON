@@ -1,0 +1,44 @@
+body{
+background-color:aquamarine;
+    color:3FFF00;
+    font-family: monospace;
+    background-image: url(https://wallpaperplay.com/walls/full/5/f/8/239154.jpg)
+}
+#one{
+    display: block;
+    background-color: dodgerblue;
+    
+     border-radius: 25px;
+  padding: 20px;
+  width: 1000px;
+  height: 100px; 
+    
+}
+#two{
+    display: block;
+    background-color: darkorange;
+    
+      border-radius: 25px;
+  padding: 20px;
+    padding-top:5px; 
+  width: 180px;
+  height: 45px; 
+}
+
+a:link{
+    background-color:forestgreen;
+  color:3FFF00; 
+    text-decoration: none;
+    font-size:16px;
+}
+a:hover{
+    background-color:C1C18C;
+  color:3FFF00; 
+}
+a:visited{
+background-color: darkblue;
+    color:3FFF00; }
+li{
+    
+}
+    
